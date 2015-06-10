@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Safewhere</authors>
+    <owners>Safewhere</owners>
+    <licenseUrl>https://github.com/Safewhere/OIOBasicPrivilegeProfileParser-net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Safewhere/OIOBasicPrivilegeProfileParser-net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>OIO Basic Privilege Profile Parser</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Kombit BPP Privilege Profile</tags>
+  </metadata>
+</package>
